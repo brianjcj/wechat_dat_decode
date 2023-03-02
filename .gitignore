@@ -1,0 +1,14 @@
+output/
+.vscode/
+main.exe
+main.exp
+main.ilk
+main.lib
+main.obj
+main.pdb
+unknown_format
+vc140.pdb
+wechat_dat_decode.dll
+wechat_dat_decode.exp
+wechat_dat_decode.lib
+wechat_data_files.txt
